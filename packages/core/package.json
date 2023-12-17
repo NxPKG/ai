@@ -1,6 +1,6 @@
 {
   "name": "ai",
-  "version": "2.2.29",
+  "version": "3.0.0",
   "license": "Apache-2.0",
   "sideEffects": false,
   "main": "./dist/index.js",
@@ -97,7 +97,7 @@
     "@types/node": "^17.0.12",
     "@types/react": "^18.2.8",
     "@types/react-dom": "^18.2.0",
-    "@vercel/ai-tsconfig": "workspace:*",
+    "@khulnasoft-lab/ai-tsconfig": "workspace:*",
     "@vitejs/plugin-react": "4.2.0",
     "@vitejs/plugin-vue": "4.5.0",
     "eslint": "^7.32.0",
@@ -141,10 +141,10 @@
   "homepage": "https://sdk.vercel.ai/docs",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vercel/ai.git"
+    "url": "git+https://github.com/khulnasoft-lab/ai.git"
   },
   "bugs": {
-    "url": "https://github.com/vercel/ai/issues"
+    "url": "https://github.com/khulnasoft-lab/ai/issues"
   },
   "keywords": [
     "ai",

@@ -1,5 +1,17 @@
 # ai
 
+## 3.0.0
+
+### Major Changes
+
+- ls
+- ls
+
+### Patch Changes
+
+- 228a479: ai/svelte: Add experimental_onToolCall to useChat.
+- 228a479: Add experimental_onToolCall to OpenAIStream.
+
 ## 2.2.29
 
 ### Patch Changes
@@ -191,7 +203,7 @@
 
 ### Patch Changes
 
-- 84e0cc8: Add experimental_StreamData and new opt-in wire protocol to enable streaming additional data. See https://github.com/vercel/ai/pull/425.
+- 84e0cc8: Add experimental_StreamData and new opt-in wire protocol to enable streaming additional data. See https://github.com/khulnasoft-lab/ai/pull/425.
 
   Changes `onCompletion` back to run every completion, including recursive function calls. Adds an `onFinish` callback that runs once everything has streamed.
 

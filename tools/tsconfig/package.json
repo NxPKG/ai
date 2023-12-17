@@ -1,6 +1,6 @@
 {
-  "name": "@vercel/ai-tsconfig",
-  "version": "0.0.0",
+  "name": "@khulnasoft-lab/ai-tsconfig",
+  "version": "1.0.0",
   "private": true,
   "license": "MIT",
   "publishConfig": {
